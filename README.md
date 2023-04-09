@@ -1,2 +1,3 @@
-# 110Pages
-CSE 110 Pages Assignment 1
+# Shashank's User Page
+
+My favorite programming language is python for its simplicity
