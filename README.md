@@ -2,4 +2,4 @@
 
 My favorite programming language is python for its simplicity
 
-[Programmer Page](https://shashankvenkatramani.github.io)
+[Programmer Page](https://shashankvenkatramani.github.io/110Pages)
